@@ -7,7 +7,7 @@ import sqlite3
 
 
 # ############Notes###########
-# Enhancements - build a random date function with weights, range, etc.
+# Future Enhancements - build a random date function with weights, range, etc.
 # Rule - Each member record has a memberID, DOB, Gender, LOB, incepDate, termDate
 # Rule - Assume all policy periods are continuous from inception until termination
 # Rule - Each loss record has a memberID, DOS, DOP, ProcCd, Billed, Allowed, Paid, Units, ClaimID, ClaimLine
